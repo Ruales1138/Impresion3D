@@ -14,7 +14,7 @@ body{
 
 header{
     /* background: #fff16a; */
-    background: #DAF7A6;
+    background: #34495e;
     height: 100px;
     width: 100%;
     margin: 0px;
@@ -104,18 +104,18 @@ aside{
 }
 
 .linkSelected {
-    color: #229954;
+    color: #2f7bc6;
     text-decoration: none;
     font-weight: bold;
     font-size: 22px;
 }
 
 .link:hover {
-    color: #99EF00;
+    color: #00d8ff;
 }
 
 .linkSelected:hover {
-    color: #99EF00;
+    color: #00d8ff;
 }
 
 /* -------------------------- */
@@ -170,6 +170,8 @@ footer{
 
 #imageMP2 {
     width: 300px;
+    margin-right: 50px;
+    margin-top: 70px;
 }
 
 .texts{
