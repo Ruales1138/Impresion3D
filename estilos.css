@@ -14,7 +14,7 @@ body{
 
 header{
     /* background: #fff16a; */
-    background: #34495e;
+    background: #59b1c1;
     height: 100px;
     width: 100%;
     margin: 0px;
@@ -159,8 +159,12 @@ footer{
     text-align: center;
 }
 
-#titleMP {
+#titleMP1 {
     margin-bottom: 40px;
+}
+
+#titleMP2 {
+    margin-top: 80px;
 }
 
 #imageMP1 {
@@ -182,6 +186,15 @@ footer{
     margin-top: 50px;
 }
 
+.texts2 {
+    width: 750px;
+    font-weight: bold;
+    color: #6A6A6A;
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 100px;
+}
+
 #text1 {
     float: left;
 }
@@ -189,7 +202,6 @@ footer{
 #text2 {
     float: right;
 }
-
 
 /*------ Acerca de -------*/
 
