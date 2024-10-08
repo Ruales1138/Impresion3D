@@ -226,5 +226,15 @@ footer{
     text-align: left;
     font-weight: bold;
     color: #6A6A6A;
+    width: 750px;
+    margin-bottom: 50px;
+}
 
+li {
+    margin-bottom: 10px;
+}
+
+.imagenes {
+    width: 600px;
+    margin-bottom: 50px;
 }
